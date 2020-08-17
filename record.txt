@@ -1,0 +1,33 @@
+RCB	v/s	CSK	on	6	April.		1st team scored 176 runs and 2nd team scored 129runs.
+1st team won the match by 47 runs.
+
+DD	v/s	SH	on	14	April.		1st team scored 164 runs and 2nd team scored 285runs.
+2nd team won the match by 121 runs.
+
+RR	v/s	SH	on	24	May.		1st team scored 247 runs and 2nd team scored 328runs.
+2nd team won the match by 81 runs.
+
+CSK	v/s	RR	on	20	May.		1st team scored 231 runs and 2nd team scored 76runs.
+1st team won the match by 155 runs.
+
+CSK	v/s	SH	on	9	April.		1st team scored 283 runs and 2nd team scored 242 runs.
+1st team won the match by 41 runs.
+
+RR	v/s	K17KQ	on	30	May.		1st team scored 245 runs and 2nd team scored 346 runs.
+2nd team won the match by 101 runs.
+
+CSK	v/s	K17KQ	on	18	May.		1st team scored 82 runs and 2nd team scored 341 runs.
+2nd team won the match by 259 runs.
+
+RR	v/s	CSK	on	8	May.		1st team scored 125 runs and 2nd team scored 230 runs.
+2nd team won the match by 105 runs.
+
+CSK	v/s	KKR	on	8	May.		1st team scored 161 runs and 2nd team scored 359 runs.
+2nd team won the match by 198 runs.
+
+MI	v/s	DD	on	8	April.		1st team scored 129 runs and 2nd team scored 372 runs.
+2nd team won the match by 243 runs.
+
+RR	v/s	KKR	on	27	April.		1st team scored 166 runs and 2nd team scored 236 runs.
+2nd team won the match by 70 runs.
+
